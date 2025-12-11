@@ -1,6 +1,6 @@
 # 📊 Sales Analytics Dashboard Project
+<img width="3168" height="1344" alt="Banner" src="https://github.com/user-attachments/assets/f62e13d3-3824-497e-bd2f-58493bb25933" />
 
-![Project Banner](INSERT_YOUR_BANNER_IMAGE_PATH_HERE)
 
 ## 📖 Project Overview
 
